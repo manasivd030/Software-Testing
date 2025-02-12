@@ -42,9 +42,13 @@ When you're assigned to a high-pressure project on short notice, the key is to f
 Example Application:
 Let’s say you’re assigned to a project requiring Cypress for automation testing, but you only know Selenium.
 ✅ Step 1: Read Cypress documentation and watch a 2-hour tutorial on Udemy/YouTube.
+
 ✅ Step 2: Set up a basic Cypress project and test a sample login page.
+
 ✅ Step 3: Seek a KT session from a colleague and shadow them for a day.
+
 ✅ Step 4: Start automating small test cases, refining scripts with feedback.
+
 ✅ Step 5: Document key differences from Selenium for future reference.
 
 Bottom Line: Strategic learning + hands-on practice + collaboration = Fast upskilling for high-impact projects. 🚀
@@ -128,8 +132,11 @@ If the workload becomes overwhelming:
 
 Bottom Line:
 ✅ Understand the expectations—temporary or permanent.
+
 ✅ Manage workload smartly to avoid burnout.
+
 ✅ Negotiate diplomatically if it impacts productivity.
+
 ✅ Adapt & learn—this experience may strengthen resilience for future challenges.
 
 # 4. If Developer always ask for huge user story testing as quick sanity how to approach them?
@@ -172,9 +179,13 @@ When a developer frequently asks for a quick sanity test on a huge user story, i
 
 Bottom Line:
 ✅ Clarify what sanity testing includes and set realistic expectations.
+
 ✅ Prioritize high-impact areas for sanity when time is limited.
+
 ✅ Propose phased testing—quick sanity first, full testing later.
+
 ✅ Leverage automation to speed up repetitive sanity tests.
+
 ✅ Escalate professionally if unrealistic deadlines persist.
 
 # 5. How to approach UAT bug?
@@ -238,8 +249,11 @@ Attachments (Screenshots, logs, network traces)
 
 Bottom Line:
 ✅ Reproduce & document the bug with evidence.
+
 ✅ Categorize based on severity & log it properly in a defect tracking tool.
+
 ✅ Communicate with developers & stakeholders for prioritization.
+
 ✅ Verify the fix & prevent future occurrences through RCA.
 
 # 6. When team ask to keep some bugs as low priortize and then when client caught it then it is taken as production bug
@@ -296,8 +310,12 @@ When a bug that was originally deprioritized by the team gets caught by the clie
 
 Bottom Line:
 ✅ Stay professional—focus on solutions, not blame.
+
 ✅ Show documentation to reinforce that the bug was logged earlier.
+
 ✅ Assess impact quickly and help resolve the issue ASAP.
+
 ✅ Advocate for better prioritization processes in the future.
+
 ✅ Conduct an RCA to prevent similar issues from being overlooked again.
    
