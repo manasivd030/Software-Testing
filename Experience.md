@@ -1,4 +1,4 @@
-#Some Q&A we come across as a frehser
+# #Some Q&A we come across as a frehser
 # Don't stress about being a fresher—every expert was once a beginner starting from scratch! 🌱🚀
 
 # 1. How to upskills in demanding project and that to in a short notice period? 
