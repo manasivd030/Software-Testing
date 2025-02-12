@@ -1,5 +1,5 @@
 Some Q&A we come across as a frehser
-# Note: Never stressed out because you are a new learning always remember every experienced person had always started from scratch !
+# Note: Never stressed out because you are a fresher, always remember every experienced person had always started from scratch !
 
 # 1. How to upskills in demanding project and that to in a short notice period? 
 When you're assigned to a high-pressure project on short notice, the key is to focus on efficient learning, leveraging resources, and applying skills immediately. Here’s a structured approach:
