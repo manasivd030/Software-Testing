@@ -41,6 +41,7 @@ When you're assigned to a high-pressure project on short notice, the key is to f
 
 Example Application:
 Let’s say you’re assigned to a project requiring Cypress for automation testing, but you only know Selenium.
+
 ✅ Step 1: Read Cypress documentation and watch a 2-hour tutorial on Udemy/YouTube.
 
 ✅ Step 2: Set up a basic Cypress project and test a sample login page.
@@ -131,6 +132,7 @@ If the workload becomes overwhelming:
 🔹 If needed, explore opportunities where work-life balance is better while ensuring a professional exit strategy.
 
 Bottom Line:
+
 ✅ Understand the expectations—temporary or permanent.
 
 ✅ Manage workload smartly to avoid burnout.
@@ -178,6 +180,7 @@ When a developer frequently asks for a quick sanity test on a huge user story, i
 "To maintain quality, we may need to allocate more time for testing large user stories. Rushing through sanity may lead to critical issues being overlooked."
 
 Bottom Line:
+
 ✅ Clarify what sanity testing includes and set realistic expectations.
 
 ✅ Prioritize high-impact areas for sanity when time is limited.
@@ -248,6 +251,7 @@ Attachments (Screenshots, logs, network traces)
 "Adding validation checks in API responses to prevent incorrect transaction IDs in future builds."
 
 Bottom Line:
+
 ✅ Reproduce & document the bug with evidence.
 
 ✅ Categorize based on severity & log it properly in a defect tracking tool.
@@ -309,6 +313,7 @@ When a bug that was originally deprioritized by the team gets caught by the clie
 "Going forward, we will flag potential customer-facing bugs for additional review before deprioritization."
 
 Bottom Line:
+
 ✅ Stay professional—focus on solutions, not blame.
 
 ✅ Show documentation to reinforce that the bug was logged earlier.
